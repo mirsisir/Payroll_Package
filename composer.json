@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "kinetix\\payroll\\HRMServiceProvider"
+                "Kinetix\\Payroll\\HRMServiceProvider"
 
             ]
         }
