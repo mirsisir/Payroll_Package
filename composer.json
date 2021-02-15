@@ -11,5 +11,13 @@
         "psr-4": {
             "kinetix\\payroll\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "kinetix\\payroll\\HRMServiceProvider"
+
+            ]
+        }
     }
 }
