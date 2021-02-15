@@ -4,8 +4,8 @@
     "type": "library",
     "require": {
         "livewire/livewire": "2.3",
-        "illuminate/support": "8.0",
-        "fruitcake/laravel-cors": "2.0"
+        "illuminate/support": "8.0"
+
     },
     "license": "MIT",
     "minimum-stability": "dev",
