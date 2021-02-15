@@ -2,9 +2,7 @@
     "name": "kinetix/payroll",
     "description": "Payroll Project For Test",
     "type": "library",
-    "require": {
-        "livewire/livewire": "2.3"
-    },
+    "require": {},
     "license": "MIT",
     "minimum-stability": "dev",
 
