@@ -3,6 +3,8 @@
     "description": "Payroll Project For Test",
     "type": "library",
     "require": {
+        "livewire/livewire": "2.3",
+        "illuminate/support": "8.16.1"
 
     },
     "license": "MIT",
